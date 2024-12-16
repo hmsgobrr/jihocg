@@ -1,0 +1,3 @@
+[submodule "vendor/pixeltoaster"]
+	path = vendor/pixeltoaster
+	url = https://github.com/thedmd/pixeltoaster.git
